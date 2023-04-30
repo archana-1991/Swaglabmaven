@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9267" started-at="2023-04-30T04:16:00Z" finished-at="2023-04-30T04:16:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9267" started-at="2023-04-30T04:16:00Z" finished-at="2023-04-30T04:16:10Z">
+      <class name="testcases.Logintest">
+        <test-method status="PASS" signature="ReportSetup()[pri:0, instance:testcases.Logintest@43ee72e6]" name="ReportSetup" is-config="true" duration-ms="597" started-at="2023-04-30T04:16:00Z" finished-at="2023-04-30T04:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportSetup -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.Logintest@43ee72e6]" name="SetUp" is-config="true" duration-ms="3461" started-at="2023-04-30T04:16:01Z" finished-at="2023-04-30T04:16:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.Logintest.InvalidLogin() throws com.codoid.products.exception.FilloException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="InvalidLogin()[pri:0, instance:testcases.Logintest@43ee72e6]" name="InvalidLogin" duration-ms="379" started-at="2023-04-30T04:16:04Z" finished-at="2023-04-30T04:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.Logintest@43ee72e6]" name="TearDown" is-config="true" duration-ms="725" started-at="2023-04-30T04:16:05Z" finished-at="2023-04-30T04:16:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.Logintest@43ee72e6]" name="SetUp" is-config="true" duration-ms="2821" started-at="2023-04-30T04:16:06Z" finished-at="2023-04-30T04:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.Logintest.ValidLogin() throws com.codoid.products.exception.FilloException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidLogin()[pri:0, instance:testcases.Logintest@43ee72e6]" name="ValidLogin" duration-ms="324" started-at="2023-04-30T04:16:08Z" finished-at="2023-04-30T04:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.Logintest@43ee72e6]" name="TearDown" is-config="true" duration-ms="730" started-at="2023-04-30T04:16:09Z" finished-at="2023-04-30T04:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="ReportClean()[pri:0, instance:testcases.Logintest@43ee72e6]" name="ReportClean" is-config="true" duration-ms="220" started-at="2023-04-30T04:16:09Z" finished-at="2023-04-30T04:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportClean -->
+      </class> <!-- testcases.Logintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
